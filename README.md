@@ -7,9 +7,6 @@
 ## Stats
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ITK13201)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ITK13201)
-
 ## Languages
 
 - **Python**
