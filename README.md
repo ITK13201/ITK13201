@@ -1,8 +1,8 @@
 # Takumi Ikeda (ITK13201)
 
-[Twitter](https://twitter.com/itk13201)
+- [Twitter](https://twitter.com/itk13201)
 
-[Hatena Blog](https://itk13201.hatenablog.com/)
+- [Hatena Blog](https://itk13201.hatenablog.com/)
 
 ## Stats
 
