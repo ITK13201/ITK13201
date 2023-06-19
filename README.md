@@ -12,6 +12,7 @@
 
 - **Python**
 - **Go**
+- **Ruby**
 - Typescript
 - Java
 
@@ -19,7 +20,16 @@
 
 - **Django**
 - **Flask**
+- **Ruby on Rails**
 - **Gin**
 - Next.js
 - React
+- Terraform
+
+## Clouds
+
+- GCP (Cloud Run)
+- AWS (EC2, RDS)
+- PlanetScale
+- Heroku
 
